@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding//WebContent/Views/jsp/ADM001.jsp=UTF-8
+encoding//WebContent/Views/jsp/ADM002.jsp=UTF-8
+encoding//WebContent/Views/jsp/ADM005.jsp=UTF-8
+encoding//src/manageuser/properties/files/config_ja.properties=UTF-8
+encoding//src/manageuser/properties/files/database_ja.properties=UTF-8
+encoding//src/manageuser/properties/files/message_error_ja.properties=UTF-8
+encoding//src/manageuser/properties/files/message_ja.properties=UTF-8
+separateDerivedEncodings=true
